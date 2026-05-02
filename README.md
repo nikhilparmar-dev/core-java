@@ -1,10 +1,9 @@
 # Java Engineering Roadmap 🚀
 
-This repository documents my **step-by-step journey from Java fundamentals to backend-ready Java development**.  
-It is **not random practice code** — it follows a structured roadmap designed for **becoming a Java Backend Developer**.
+This repository documents my **step-by-step journey for Java fundamentals**.
 
-📌 **Focus:** Java Engineering Fundamentals  
-📌 **Goal:** Build strong Java fundamentals + problem solving before moving into backend frameworks  
+📌 **Focus:** Core Java understanding
+📌 **Goal:** Build strong Java fundamentals + problem solving before moving into other backend frameworks  
 📌 **Timeline:** January 2026 → March 2026
 
 ---
@@ -122,9 +121,7 @@ By the end of this roadmap, I aim to:
 
 - Build strong Java programming fundamentals  
 - Write clean, readable, object-oriented code  
-- Understand commonly used Java data structures  
 - Create practical mini-projects demonstrating real understanding  
-- Prepare myself for the **next stage: Backend development with Spring Boot**
 
 ---
 
